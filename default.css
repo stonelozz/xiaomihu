@@ -1,14 +1,3 @@
-@import "css-family=Raleway-200,500,700,800.css"/@font-face {
-	font-family: icomoon;
-	src: url(icomoon.eot-rretjt);
-	src: url(icomoon.eot-#iefixrretjt)/*tpa=http://www.jq22.com/demo/jquery-3d20151023/fonts/icomoon.eot?#iefixrretjt*/
-	format('embedded-opentype'), url(icomoon.woff-rretjt)/*tpa=http://www.jq22.com/demo/jquery-3d20151023/fonts/icomoon.woff?rretjt*/
-	format('woff'), url(icomoon.ttf-rretjt)/*tpa=http://www.jq22.com/demo/jquery-3d20151023/fonts/icomoon.ttf?rretjt*/
-	format('truetype'), url(icomoon.svg-rretjt#icomoon)/*tpa=http://www.jq22.com/demo/jquery-3d20151023/fonts/icomoon.svg?rretjt#icomoon*/
-	format('svg');
-	font-weight: 400;
-	font-style: normal
-}
 
 [class^=icon-],
 [class*=" icon-"] {
