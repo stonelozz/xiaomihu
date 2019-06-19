@@ -44,7 +44,7 @@ body {
 	color: #404d5b;
 	font-weight: 500;
 	font-size: 1.05em;
-	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif
+/* 	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif */
 }
 
 a {
@@ -136,11 +136,11 @@ a:focus {
 	font-size: 2em;
 	line-height: 1;
 	margin-bottom: 0;
-	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif
+/* 	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif */
 }
 
 .htmleaf-header h1 span {
-	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif;
+/* 	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif; */
 	display: block;
 	font-size: 60%;
 	font-weight: 400;
@@ -214,7 +214,7 @@ a:focus {
 	font-weight: 400;
 	font-style: normal;
 	font-variant: normal;
-	font-family: icomoon;
+/* 	font-family: icomoon; */
 	line-height: 1;
 	speak: none;
 	-webkit-font-smoothing: antialiased
@@ -250,7 +250,7 @@ a:focus {
 	text-align: center;
 	margin: 20px 10px;
 	padding: 25px;
-	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif
+/* 	font-family: segoe ui, lucida grande, Helvetica, Arial, microsoft yahei, FreeSans, Arimo, droid sans, wenquanyi micro hei, hiragino sans gb, hiragino sans gb w3, fontawesome, sans-serif */
 }
 
 .related a {
@@ -282,7 +282,7 @@ a:focus {
 }
 
 .related h3 {
-	font-family: microsoft yahei, sans-serif
+/* 	font-family: microsoft yahei, sans-serif */
 }
 
 .related a h3 {
